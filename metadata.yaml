@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14335#The-Nursery-Volume-17-No.-101-May-1875--13-A-Monthly-Magazine-for-Youngest-Readers
 gutenberg_bookshelf: The Nursery
 gutenberg_issued: '2004-12-13'
 gutenberg_type: Text
